@@ -13,7 +13,7 @@ require (
 	github.com/containerd/continuity v0.0.0-20181203112020-004b46473808 // indirect
 	github.com/envoyproxy/go-control-plane v0.9.6
 	github.com/fsouza/go-dockerclient v1.3.1
-	github.com/gogo/protobuf v1.2.1
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.4.2
 	github.com/gorilla/mux v1.6.2
 	github.com/hashicorp/go-cleanhttp v0.5.0
